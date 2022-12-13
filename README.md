@@ -7,6 +7,11 @@
 <p align="center">🤍 Thanks for Being Here 🤍</p>
 
 
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://app.koyeb.com/deploy?type=git&repository=github.com/Skystapper/urburnup&branch=master&name=urburnup&run_command=python3%20bot.py&env[API_HASH]=a30a033169425171b731104554f7a575&env[APP_ID]=9261804&env[OWNER_ID]=2050656439%201568072396&env[DATABASE_URL]=128&env[PREMIUM_USER]=https://i.ibb.co/KVmcLJ3/20221007-141445.jpg&env[HTTP_PROXY]=&env[TG_BOT_TOKEN]=5013154971:AAGPFddpN3okmYhv6MvOXre6yOmhBvXuzuM&env[WEBHOOK]=ANYTHING)
+
+
+
 ### ⚡️ Configs 
 
 * `BOT_TOKEN`  - Create a New BOT to Get bot token. follow link  https://telegram.me/BotFather
